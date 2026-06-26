@@ -13,9 +13,9 @@ substitutions:
   brink_external_co2_sensor2: CO2 Sensor2
   brink_external_co2_sensor3: CO2 Sensor3
   brink_external_co2_sensor4: CO2 Sensor4
-  brink_temp_to_outside: Fortluft Temparatur
+  brink_temp_to_outside: Fortluft Temperatur
   brink_humidity_to_outside: Fortluft Luftfeuchtigkeit
-  brink_temp_from_outside: Außenluft Temparatur
+  brink_temp_from_outside: Außenluft Temperatur
   brink_supply_pressure: Zuluft Druck
   brink_exhaust_pressure: Abluft Druck
   brink_setpoint_inlet_volume: Eingestelltes Zuluft Volumen
@@ -40,11 +40,11 @@ substitutions:
   brink_co2_sensor: CO2 Sensor aktiv
   brink_standby_switch: Standby Schalter
   brink_imbalance_intake: Ungleichgewicht Zuluft
-  brink_bypass_from_dwelling: Bypass Wunschtemparatur
+  brink_bypass_from_dwelling: Bypass Wunschtemperatur
   brink_bypass_from_outside: Bypass Außentemperatur
   brink_bypass_hysteresis: Bypass Hysterese
   brink_frost_control_temperature: Frostschutztemperatur
-  brink_frost_minimum_inlet_temperature: Mindest-Einblastemparatur # German is silly
+  brink_frost_minimum_inlet_temperature: Mindest-Einblastemperatur # German is silly
   brink_imbalance_exhaust: Ungleichgewicht Abluft
   brink_filter_change_days: Tage vor Filterwarnung
   brink_filter_reset_on: Filter Reset angeschaltet
